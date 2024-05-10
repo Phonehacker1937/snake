@@ -1,0 +1,8 @@
+Player position: (100.00,20.00)
+Target position: (93.00,-93.00)
+Tail 1 position: (80.00,20.00)
+Tail 2 position: (60.00,20.00)
+Tail 3 position: (40.00,20.00)
+Tail 4 position: (20.00,20.00)
+Tail 5 position: (-0.00,20.00)
+Score: 6
